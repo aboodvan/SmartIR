@@ -776,7 +776,6 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | [2641](../codes/climate/2641.json) | FSOAI-SU-90AE2 | Broadlink  |
 | [2642](../codes/climate/2642.json) | FSACME-XF18CIBN | Broadlink  |
 
-
 #### Hyundai
 | Code                               | Supported Models       | Controller |
 | ---------------------------------- | ---------------------- | ---------- |
